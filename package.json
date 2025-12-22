@@ -1,0 +1,14 @@
+{
+  "name": "@release/npm-publish-testing",
+  "version": "1.0.0",
+  "description": "Testing the easiest method of pulling down from one npm repository and pubishing to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Davies",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  }
+}
