@@ -1,6 +1,6 @@
 {
   "name": "@release/npm-publish-testing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing the easiest method of pulling down from one npm repository and pubishing to another",
   "main": "index.js",
   "scripts": {
